@@ -1,0 +1,32 @@
+#grid {
+	height: 600px;
+	width: 600px;
+	margin: 50px auto;
+	padding: none;
+	border: none;
+}
+
+.singleRow {
+	border: none;
+	padding: none;
+}
+
+.singleBox {
+	border: none;
+	background-color: #F2F3F4;
+	padding: none;
+	display: inline-block;
+}
+
+.buttons {
+	text-align: center;
+}
+
+.button {
+	display: inline-block;
+	border-radius: 0;
+	border: 1px solid black;
+	background-color: white;
+	font-weight: bold;
+	margin: 20px 20px 0px 20px;
+}
